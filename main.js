@@ -6,7 +6,7 @@ var counterHours = document.getElementById('hours');
 var counterMinutes = document.getElementById('minutes');
 var counterSeconds = document.getElementById('seconds');
 //finds MahaShivRatri
-var MahaShivRatri = new Date('February 21, 2020 00:00:00');
+var MahaShivRatri = new Date('March 11, 2021 00:00:00');
 
 //Updates Timer
 function updateTimer(MahaShivRatri) {
