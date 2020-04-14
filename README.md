@@ -8,4 +8,4 @@ and then open the index.html
 You will see awesome Mahashiv Ratri Music and count down
 
 Visit for Example:
-https://wdranjeet.github.io/shivratri-countdown/
+https://wdranjeet.github.io/shivaratri-countdown/
